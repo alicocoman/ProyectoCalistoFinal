@@ -1,0 +1,65 @@
+arreglar ortografía// NO LISTO
+
+TOKEN API // LISTO
+
+recuperar contraseña:
+	poner loading xq parece que se congeló// LISTO
+	poner type password// LISTO
+	mensaje de éxito// LISTO
+
+login:
+	sacar el loading si hay un error// LISTO
+	despues de recuperar pass o un error, el texto queda negro // LISTO
+
+inicio:
+	!!!!!! ponerle una vista de home// DESPUES
+	cambiar etiquetas en el menú// LISTO
+	!!!!!! anda mal el botón de home// LISTO
+
+usuario:
+	teléfono tiene que ser un type number// LISTO
+	!!!!!! mejorar mensaje de error// LISTO
+	no sacar el modal de editar cuando hay un error// LISTO
+
+residente:
+	!!!!!!! error en editar manda html limpio // LISTO REVISAR
+	cambiar etiqueta "signos" en más información // LISTO
+	fecha en agregar receta y en agregar estudio es MM/dd // NO VEO EL ERROR
+	botón de agregar responsable, cambiar el ícono // NO VEO EL ERROR ES UNA LUPA EN LOS DOS
+	editar tratamiento, están al revés los botones// LISTO
+	lista de insumos, sacar el color// LISTO
+        mejorar etiquetas en agregar receta// LISTO
+	agregar receta en tratamiento, mejorar etiquetas// LISTO
+	fecha estimada del resultado no debería ser required // LISTO
+	!!!!!!! eliminar no está definido en el script// LISTO
+	tipos de insumo	// LISTO
+	en el registrar alinear los campos a la derecha y achicar los input// LISTO
+	!!!!!!! editar signo vital no muestra error// LISTO
+
+
+	eliminar insumo, consulta y estudio, retornar a la misma vista// POSIBLE MEJORA PERO SI DA EL TIEMPO
+	avisar que se agregó la consulta// POSIBLE MEJORA PERO SI DA EL TIEMPO
+	avisar que se agregó el signo vital// POSIBLE MEJORA PERO SI DA EL TIEMPO	
+
+	ver solucionar con TOAST
+
+____________________________________________________________________________________________________________
+
+	Signos debe validar algun signo
+	Estudio mensaje de especificaciones es requerido
+	Cambiar mensaje de ingles a españon en datanotations
+	Verificar los binding de recetea, medicamento etc
+	verificar lo de calcular cuántos quedan
+	mensaje de error en agregar receta
+	!!!! validar los datos que se editan
+
+	
+
+alertas:
+	modal de éxito: centrar y arreglar el dismiss
+	!!!!!!! borrar campos después
+	enviar mail al hacer alerta
+
+!!!!!!! está mal hecho lo de agregar medicamento
+
+
